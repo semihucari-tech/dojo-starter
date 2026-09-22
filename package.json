@@ -1,0 +1,19 @@
+{
+  "name": "dojo-starter",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "koan": "node scripts/koan.mjs"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^10",
+    "@testing-library/react": "^17",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "jsdom": "^28",
+    "react": "^19",
+    "react-dom": "^19",
+    "typescript": "^7",
+    "vitest": "^5"
+  }
+}
