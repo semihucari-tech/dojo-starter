@@ -1,6 +1,6 @@
 # dojo-starter
 
-Runner for the koans at <https://dojo-tawny-six.vercel.app>. Most koans need
+Runner for the koans at <https://jsdojo.xyz>. Most koans need
 nothing but Node — this repo is for the ones that render React.
 
 ```bash
